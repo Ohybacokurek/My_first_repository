@@ -1,12 +1,24 @@
-## OKAMŽITĚ JSI TO PŘEČTI
-```java
-public static void main(String[] args) {
-    int value = 1;
-    if (value > 1 && (value % 2) == 1 | (value / 2) == 0) {
-        System.out.println(“Im in!!”);
-    } else if (value = 1) {
-        System.out.println(“Almost there”);
-    } else {
-        System.out.println(“At least you tried!”);
-    }
-```
+# Datové Typy
+- Definuje v programování druh nebo význam hodnot, kterých smí nabývat proměnná (nebo konstanta).
+## Dělení
+##### Primitivní datové typy:
+- Primitivní datové typy reprezentují elementární údaje, je jich omezené množství a nedají se uživatelsky definovat.
+######Rozdělění
+- Celočíselné typy (char, int, long, short, byte).
+- Reálná typy (float, double).
+- Znakové typy (char).
+- Logický typ (boolean, true, false).
+- Prázdné typy (void).
+#####Referenční datové typy
+Referenční datové typy jsou objekty a pole.
+### Příklady
+- Byte (8 bitů)
+- Short (16 bitů)
+- Int (32 bitů)
+- Long (64 bitů)
+- Char (16 bitů)
+- Double (64 bitů)
+- Boolean (1 bit)
+- Float (32 bitů)
+
+
